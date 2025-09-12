@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alay</h1>
-<h3 align="center">AI + Full Stack Developer from India</h3>
+<h3 align="center">AI Engineer and Full Stack Developer from India</h3>
 
 - 🔭 I’m currently working on [Predict Student Learning Using A Virtual Game](https://github.com/SpyDplayz/Predict-Student-Learning)
 
