@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">AI + Full Stack developer from India</h3>
 
 - 🔭 I’m currently working on [Predict Student Learning Using A Virtual Game](https://github.com/SpyDplayz/Predict-Student-Learning)
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m Contributed on [Rentiva](https://rentiva.vercel.app/),[DigiCourt](https://digicourt.vercel.app)
 
-- 💬 Ask me about **JavaScript, Pythion, Java**
+- 💬 Ask me about **JavaScript, Python, ReactJS, React Native, LLM, GenAI**
 
 - 📫 How to reach me **spydplayz@gmail.com**
 
